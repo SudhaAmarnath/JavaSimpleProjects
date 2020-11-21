@@ -1,5 +1,6 @@
 package JavaMailAPI;
 
+
 public class Email {
 	private String from;
 	private String to;
